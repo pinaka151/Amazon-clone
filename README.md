@@ -4,4 +4,3 @@ This is a clone of amazon which made by use of html and css
 Author - Vipin mishra
 <br>
 we are here
-helo
